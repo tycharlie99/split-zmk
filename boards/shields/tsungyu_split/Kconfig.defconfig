@@ -1,7 +1,7 @@
 if SHIELD_TSUNGYU_SPLIT_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "tsungyu-split"
+    default "tsungyu-split-2"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
